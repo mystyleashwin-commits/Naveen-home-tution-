@@ -1,0 +1,6 @@
+{
+  "name": "Naveen Home Tuitions",
+  "description": "Connecting parents and students with verified home and online tutors for Classes 1–12 and BTech across Hyderabad, Telangana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
